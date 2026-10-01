@@ -28,7 +28,7 @@ twitter_username: aquariuspt
 github_username:  pteleapritchard
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
