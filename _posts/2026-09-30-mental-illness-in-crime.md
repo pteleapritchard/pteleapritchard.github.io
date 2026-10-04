@@ -25,9 +25,7 @@ Because of these inconsistent conclusions, it is my intention in this blog to ta
 
 Efforts are being taken to reduce the prevalence of mentally ill individuals with mental illness within the justic system. Most of these approaches focus on reducing repeat criminal behavior and preventing unnecessary incarceration, rather than solely treating the underlying mental health condition. One common approach is the use of police-led diversion programs, in which police officers are given additional training to be able to identify individuals experiencing psychiatric issues and connect them with medical professionals and treatment facilities rather than processing them within the justice system. Studies investigating the success of these treatments have produced mixed results. Many found short-term improvements both in symptoms and reincarceration, but there is less evidence that these programs have lasting long-term effects. Follow-ups in these studies after individuals leave care are uncommon, making it difficult to tell if improvements are sustained.
 
-## My Thoughts
-
-## Sources
+## References and Continued Reading
 
 Markowitz, F. E. (2011). Mental illness, crime, and violence: Risk, context, and social control. Aggression and violent behavior, 16(1), 36-44. [Link][markowitz-link]
 
