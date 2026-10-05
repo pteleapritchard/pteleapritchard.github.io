@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: "Schizophrenia in Crime, and Rehabilitation"
-tags: []
+tags: [crime, psychology]
 date-string: OCTOBER 01, 2026
 ---
 Schizophrenia is one of the most misunderstood mental illnesses, and the media often portrays it as being closely associated with violent outbursts. How much truth is there to this perception? Are people with schizophrenia actually more likely to commit violent crimes, and if so, what can we do to prevent it?
@@ -13,7 +13,7 @@ Schizophrenia is a serious mental illness that affects how a person thinks and p
 
 ## Schizophrenia in Crime
 
-Research has shown that people with schizophrenia are at a higher risk of displaying violent behavior than the general population, but it might not be to the extent that you would think. A 2009 analysis of 20 studies found that the risk varied heavily between studies, but substance abuse was by far the strongest factor in whether or not subjects with schizophrenia would display violent behavior. While the average participant with schizophrenia was found to be anywhere from 4 to 8 times more likely to exhibit violent behavior than the average person, when only analyzing participants that did not also have a substance abuse problem, the likelihood of this behavior was only about twice as high as the average. The authors of these studies convluded that most of the excess risk associated with schizophrenia appeared to be with substance abuse rather than their condition alone.
+Research has shown that people with schizophrenia are at a higher risk of displaying violent behavior than the general population, but it might not be to the extent that you would think. A 2009 analysis of 20 studies found that the risk varied heavily between studies, but substance abuse was by far the strongest factor in whether or not subjects with schizophrenia would display violent behavior. While the average participant with schizophrenia was found to be anywhere from 4 to 8 times more likely to exhibit violent behavior than the average person, when only analyzing participants that did not also have a substance abuse problem, the likelihood of this behavior was only about twice as high as the average. The authors of these studies concluded that most of the excess risk associated with schizophrenia appeared to be with substance abuse rather than their condition alone.
 
 This challenges the image of schizophrenia and violent outbursts having a strong connection. While schizophrenia does carry with it an increased risk, the disorder itself does not cause violent behavior as often as many would believe. Like with other mental illnesses, those afflicted with the condition are more susceptible to substance abuse issues that ultimately lead to this kind of behavior. Preventing substance abuse should then be the highest priority to reduce criminal behavior within these populations.
 

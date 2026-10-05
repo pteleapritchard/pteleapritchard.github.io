@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: "Mental Illness in Crime, a Brief Overview"
-tags: []
+tags: [crime, psychology]
 date-string: SEPTEMBER 30, 2026
 ---
 Are people with mental illnesses more likely to commit crimes? In criminal cases with mentally ill offenders, is the mental illness the cause of the crime, or are other factors responsible? Do rehabilitation efforts for mental illness help prevent crime?
